@@ -1,4 +1,4 @@
-# Kerbalized Launch Audio Packs for NASA CountDown (NCD)
+# Kerbalized Launch Audio Packs for NASA CountDown
 
 This project provides a collection of **kerbalized launch audio packs** for *Kerbal Space Program*, designed for use with the **[NASA CountDown (NCD)](https://github.com/linuxgurugamer/LaunchCountdownEx)** mod.
 
