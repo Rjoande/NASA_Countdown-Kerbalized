@@ -51,15 +51,15 @@ To revert to the original audio:
 
 * Perform a **clean reinstall** of the NASA CountDown mod.
 
-## Compatibility Notes
+## Compatibility & Dependancy Notes
 
 * Fully compatible with:
 
-  * **NASA CountDown (NCD)**
+  * **[NASA CountDown (NCD)](https://github.com/linuxgurugamer/LaunchCountdownEx)**, which is therefore a dependancy
 
 * Partial / experimental compatibility:
 
-  * **LCD – Launch CountDown**
+  * Athlonic's **[Launch CountDown (LCD)](https://spacedock.info/mod/791/LCD%20-%20Launch%20CountDown)**
 
     * This mod appears to use **hard-coded sequence selections**
     * Some folder names differ from NCD
